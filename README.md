@@ -1,5 +1,7 @@
 # 🐚 Minishell - Projet 42
 
+Projet de groupe, réalisé avec [Malo Lefort](https://github.com/Malolfrt)
+
 ## 📌 Description
 
 **Minishell** est un projet réalisé dans le cadre du cursus de l'école **42**.  
